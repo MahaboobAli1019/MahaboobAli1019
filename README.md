@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm currently  working as a Backend Developer @Spondias India Private Limited.<br>I'm seeking collaboration on a web-based project aimed at simplifying task management through innovative UI/UX design and robust full-stack functionality.<br>Enthusiastic coder seeking collaborative support to elevate my GitHub profile through impactful contributions and constructive feedback.<br>I'm currently learning React, React Native.<br>Ask me about HTML, CSS, JavaScript, SQL, PHP.<br>Fun Fact - I am lazy but smart.<br><br>
+# Hi, I'm Mahaboob Ali
+Currently working as an **Embedded Engineer** at **Spondias India Pvt Ltd** with 1.5 years of professional experience. I've worn many hats throughout my career, including Full-Stack Developer, Mobile App Developer, and IoT Specialist.
+
+## Skills:
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery, React, React Native  
+- **Backend**: PHP, Lumen, SQL  
+- **IoT**: Embedded Systems, Arduino, and related hardware integrations  
+
+## Key Projects I've worked on:
+- **PHP**: Survey Project, POS System for Sujatha Sweets  
+- **React**: Spondias.com website  
+- **React Native**: 3D Homes mobile application  
+- **IoT**: Arcade System, Stop the LED, Stop the Display  
 
 
 ## 🌐 Socials:
