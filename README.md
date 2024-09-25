@@ -1,6 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Mahaboob Ali
-Currently working as an **Embedded Engineer** at **Spondias India Pvt Ltd** with 1.5 years of professional experience. I've worn many hats throughout my career, including Full-Stack Developer, Mobile App Developer, and IoT Specialist.
+Hi, I'm Mahaboob Ali.Currently working as an **Embedded Engineer** at **Spondias India Pvt Ltd** with 1.5 years of professional experience. I've worn many hats throughout my career, including Full-Stack Developer, Mobile App Developer, and IoT Specialist.
 
 ## Skills:
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery, React, React Native  
