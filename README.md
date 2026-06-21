@@ -7,8 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimahaboob2410@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MahaboobAli1019&color=0097A7&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -58,7 +56,6 @@ I'm a Software & IoT Developer based in **Kakinada, Andhra Pradesh** with **3+ y
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -123,16 +120,6 @@ I'm a Software & IoT Developer based in **Kakinada, Andhra Pradesh** with **3+ y
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahaboobAli1019&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaboobAli1019&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MahaboobAli1019&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
