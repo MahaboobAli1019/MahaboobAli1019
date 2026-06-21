@@ -19,7 +19,7 @@ I'm a Software & IoT Developer based in **Kakinada, Andhra Pradesh** with **3+ y
 - 🌍 Engineered e-commerce platforms for **domestic and international clients** (including a Dubai-based client)
 - 💳 Integrated **Razorpay & PayPal** payment gateways in live production environments
 - 🎓 Pursuing **MCA at Andhra University** (2025–2027)
-- 🚀 Currently doing **Freelance Full-Stack Development** — open to remote & international opportunities
+- 🚀 Open to full-time opportunities in IoT development and backend engineering
 - 💡 Passionate about **IoT automation**, **backend engineering**, and **hardware-software integration**
 
 ---
