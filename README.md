@@ -140,8 +140,7 @@ I'm a Software & IoT Developer based in **Kakinada, Andhra Pradesh** with **3+ y
 
 - 🔌 **IoT Developer** roles (embedded systems + hardware-software integration)
 - ⚙️ **Backend Engineer** roles (PHP, REST APIs, MySQL)
-- 🌐 **Remote or International** opportunities
-- 📍 In India: **Vizag · Hyderabad · Bangalore**
+- 📍 Based in Kakinada, AP — Open to Relocation Anywhere in India
 
 ---
 
