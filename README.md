@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-I'm a Software & IoT Developer based in **Kakinada, Andhra Pradesh** with **2+ years** of professional experience building systems where hardware meets software — from writing **Embedded C/C++ firmware** for ESP32/Arduino to building **PHP REST APIs** and deploying full-stack applications to production independently.
+I'm a Software & IoT Developer based in **Kakinada, Andhra Pradesh** with **3+ years** of professional experience building systems where hardware meets software — from writing **Embedded C/C++ firmware** for ESP32/Arduino to building **PHP REST APIs** and deploying full-stack applications to production independently.
 
 - 🔧 Delivered **450+ production PCBs** soldered, tested, and shipped across **25+ commercial game zones**
 - 🌍 Engineered e-commerce platforms for **domestic and international clients** (including a Dubai-based client)
