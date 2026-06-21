@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimahaboob2410@gmail.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=MahaboobAli1019&icon=0&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=MahaboobAli1019&color=0097A7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
